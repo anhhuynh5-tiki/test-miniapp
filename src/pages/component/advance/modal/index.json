@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "Modal",
+  "usingComponents": {
+    "modal": "@tiki.vn/tini-ui/es/modal/index",
+    "block-header": "components/block-header/index"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "list": "@tiki.vn/tini-ui/es/list/index",
+    "list-item": "@tiki.vn/tini-ui/es/list/list-item/index"
+  }
+}

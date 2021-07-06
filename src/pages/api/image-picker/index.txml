@@ -1,0 +1,10 @@
+<view>
+  <block-header title="Usage" description="Pick image from camera or albums" />
+  <view class="block-content">
+    <button class="button-full" onTap="onChooseImage">Choose Image</button>
+  </view>
+  <block tiki:for="{{imgs}}">
+    <image class="image-cover" src="{{item}}" />
+  </block>
+
+</view>

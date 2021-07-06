@@ -1,0 +1,8 @@
+{
+  "defaultTitle": "API",
+  "titleColor": "#fff",
+  "transparentTitle": "none",
+  "usingComponents": {
+    "list": "components/list/index"
+  }
+}
